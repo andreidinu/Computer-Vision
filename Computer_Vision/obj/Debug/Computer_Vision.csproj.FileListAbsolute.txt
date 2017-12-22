@@ -1,0 +1,10 @@
+E:\Programare\C#\Computer_Vision\Computer_Vision\obj\Debug\Computer_Vision.csprojResolveAssemblyReference.cache
+E:\Programare\C#\Computer_Vision\Computer_Vision\obj\Debug\Computer_Vision.csproj.CoreCompileInputs.cache
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Computer_Vision.exe.config
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Computer_Vision.exe
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Computer_Vision.pdb
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Newtonsoft.Json.dll
+E:\Programare\C#\Computer_Vision\Computer_Vision\bin\Debug\Newtonsoft.Json.xml
+E:\Programare\C#\Computer_Vision\Computer_Vision\obj\Debug\Computer_Vision.exe
+E:\Programare\C#\Computer_Vision\Computer_Vision\obj\Debug\Computer_Vision.pdb
